@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ASImageCompressImage_Example' do
+  pod 'ASImageCompressImage', :path => '../'
+
+  target 'ASImageCompressImage_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
