@@ -1,0 +1,16 @@
+PODS:
+  - ASImageCompressImage (0.1.0)
+
+DEPENDENCIES:
+  - ASImageCompressImage (from `../`)
+
+EXTERNAL SOURCES:
+  ASImageCompressImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ASImageCompressImage: 229d503c9ed4f947df92c67d7f2bc3e24dbb0985
+
+PODFILE CHECKSUM: 58a62364fb21f393b1b4593af01070f5c3501b67
+
+COCOAPODS: 1.9.1

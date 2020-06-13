@@ -1,0 +1,6 @@
+framework module ASImageCompressImage {
+  umbrella header "ASImageCompressImage-umbrella.h"
+
+  export *
+  module * { export * }
+}
